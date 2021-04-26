@@ -1,0 +1,94 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#e2 {
+    background: linear-gradient(hsl(173, 89%, 43%) 0%,#90CAF9 100%);
+	 background-repeat:no-repeat;
+    padding: 50px;
+    text-align: center;
+    font-size: 45px;
+}
+
+body
+{
+    text-align: center;
+}
+
+img
+{
+  border-radius:50%;
+  width:100px;
+}
+
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+}
+
+
+p{
+  font-size:18px;
+  color:#6A1B9A;
+  
+    
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:20px;
+    font-size:18;
+    text-align:center;
+}
+.menu {
+  list-style: none;
+  font-family: cursive;
+  float: right;
+  top: 10px;
+  right: 30px;
+  cursor: pointer;
+  color: black;
+}
+#e {
+    background: linear-gradient(#13ff46 0%,#90CAF9 100%);
+    background-repeat: no-repeat;
+    padding: 50px;
+    text-align: center;
+    font-size: 45px;
+}
+#e3 {
+  background: linear-gradient(hsl(56, 80%, 76%) 0%,#90CAF9 100%);
+  background-repeat:no-repeat;
+   padding: 50px;
+   text-align: center;
+   font-size: 45px;
+}
+#e4 {
+  background: linear-gradient(hsl(212, 99%, 44%) 0%,#92bee2 100%);
+  background-repeat: no-repeat;
+  padding: 50px;
+  text-align: center;
+  font-size: 45px;
+}
+#picture12 {
+  width: 18%;
+}
+#picture13 {
+  width: 15%;
+}
+#e5 {
+  background: linear-gradient(hsl(157, 91%, 41%) 0%,#073153 100%);
+  background-repeat: no-repeat;
+  padding: 50px;
+  text-align: center;
+  font-size: 45px;
+}
